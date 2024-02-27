@@ -1,7 +1,7 @@
 #TECNOLOGÍA
-- [] HTML
-- [] CSS 
-- [] docs
+- [ ] HTML
+- [ ] CSS 
+- [ ] docs
 <br/>
 
 # Seleccione el tipo de actividad
