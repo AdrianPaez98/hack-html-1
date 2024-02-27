@@ -1,4 +1,4 @@
-#TECNOLOGÍA
+# TECNOLOGÍA
 - [ ] HTML
 - [ ] CSS 
 - [ ] docs
